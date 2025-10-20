@@ -3,6 +3,8 @@ Estudos de AWS na DIO.
 
 Primeiro exercício.
 
+Usando Draw.io para criar im diagrama usando S3 / Lambda Functions 
+
 
 ## Entendendo Desafio 
 Agora é a sua hora de brilhar e construir um perfil de destaque na DIO! Explore todos os conceitos abordados até aqui, aplique os conhecimentos adquiridos nas aulas e documente sua experiência para demonstrar sua compreensão dos temas discutidos.

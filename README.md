@@ -30,3 +30,6 @@ Não pule nenhuma etapa! As aulas contêm informações essenciais para o sucess
 - Opcionalmente, capturas de tela relevantes organizadas em uma pasta /images 
 
 Enviar o link do seu repositório e uma breve descrição clicando no botão “Entregar Projeto” 
+<img width="1630" height="1102" alt="AWS-DIO-DRAW" src="https://github.com/user-attachments/assets/9d7a09c2-c416-4e64-a8c5-3264afc36085" />
+
+
